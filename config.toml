@@ -7,8 +7,9 @@ patches-source = "inotia00/revanced-patches"
 integrations-source = "inotia00/revanced-integrations"
 cli-source = "inotia00/revanced-cli"
 rv-brand = "ReVanced Extended"
-included-patches = "'Add splash animation' 'Custom branding icon Revancify Red' 'MaterialYou'"
+included-patches = "'Add splash animation' 'Custom branding icon Revancify Red' 'MaterialYou' 'Premium heading'"
 excluded-patches = "'Custom branding icon Revancify Blue' 'Custom branding name YouTube' 'Theme'"
+build-mode = "both"
 
 [Music]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music/"
@@ -18,6 +19,7 @@ cli-source = "inotia00/revanced-cli"
 rv-brand = "ReVanced Extended"
 included-patches = "'Custom branding icon Revancify Red' 'Enable old player layout' 'Replace cast button'"
 excluded-patches = "'Custom branding icon Revancify Blue' 'Custom branding name YouTube Music'"
+build-mode = "both"
 apkmirror-arch = "both"
 
 [Reddit]
