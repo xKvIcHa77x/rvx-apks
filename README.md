@@ -2,7 +2,7 @@
 [![Build Status](https://github.com/krvstek/rvx-apks/actions/workflows/build.yml/badge.svg)](https://github.com/krvstek/rvx-apks/actions/workflows//build.yml)
 [![Click here!](https://img.shields.io/badge/%20Latest%20Release-FF0000?style=for-the-badge&logo=android)](https://github.com/krvstek/rvx-apks/releases/latest)
 
-This repo contains all APKs using [inotia00's patches](https://github.com/inotia00/revanced-patches) & some apps using [ReVanced's patches](https://revanced.app/).
+This repo contains all APKs using [inotia00's patches](https://github.com/inotia00/revanced-patches) & some apps using [ReVanced's patches](https://github.com/ReVanced/revanced-patches).
 
 > **Note**: Keep in mind that some applications may not work as expected due to changes.
 
