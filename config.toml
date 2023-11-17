@@ -7,7 +7,7 @@ patches-source = "inotia00/revanced-patches"
 integrations-source = "inotia00/revanced-integrations"
 cli-source = "inotia00/revanced-cli"
 rv-brand = "ReVanced Extended"
-included-patches = "'Add splash animation' 'Custom branding icon Revancify Red' 'Enable music search' 'Hide animated button background' 'Hide double tap overlay filter' 'MaterialYou' 'Premium heading'"
+included-patches = "'Add splash animation' 'Custom branding icon Revancify Red' 'Enable music search' 'Hide animated button background' 'Hide double tap overlay filter' 'Hide player button background' 'MaterialYou' 'Premium heading' 'Shorts outline button'"
 excluded-patches = "'Custom branding icon Revancify Blue' 'Custom branding name YouTube' 'Theme'"
 build-mode = "both"
 
