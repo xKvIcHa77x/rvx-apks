@@ -35,3 +35,9 @@ apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
 [TikTok]
 apkmirror-dlurl = "https://apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
 included-patches = "'SIM spoof'"
+
+[Twitch]
+apkmirror-dlurl = "https://apkmirror.com/apk/twitch-interactive-inc/twitch/"
+
+[IconPackStudio]
+apkmirror-dlurl = "https://apkmirror.com/apk/smart-launcher-team/icon-pack-studio/"
