@@ -23,21 +23,21 @@ build-mode = "both"
 apkmirror-arch = "both"
 
 [Reddit]
-apkmirror-dlurl = "https://apkmirror.com/apk/redditinc/reddit/"
+archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.reddit.frontpage"
 patches-source = "inotia00/revanced-patches"
 integrations-source = "inotia00/revanced-integrations"
 cli-source = "inotia00/revanced-cli"
 rv-brand = "ReVanced Extended"
 
 [X]
-apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
+archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.twitter.android"
 
 [TikTok]
-uptodown-dlurl = "https://tiktok.en.uptodown.com/android"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
 included-patches = "'SIM spoof'"
 
 [Twitch]
-uptodown-dlurl = "https://twitch.en.uptodown.com/android"
+archive-dlurl = "https://archive.org/download/jhc-apks/apks/tv.twitch.android.app"
 
 [IconPackStudio]
 uptodown-dlurl = "https://icon-pack-studio.en.uptodown.com/android"
