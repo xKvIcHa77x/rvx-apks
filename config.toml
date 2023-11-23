@@ -33,11 +33,11 @@ rv-brand = "ReVanced Extended"
 apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
 
 [TikTok]
-apkmirror-dlurl = "https://apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
+uptodown-dlurl = "https://tiktok.en.uptodown.com/android"
 included-patches = "'SIM spoof'"
 
 [Twitch]
-apkmirror-dlurl = "https://apkmirror.com/apk/twitch-interactive-inc/twitch/"
+uptodown-dlurl = "https://twitch.en.uptodown.com/android"
 
 [IconPackStudio]
-apkmirror-dlurl = "https://apkmirror.com/apk/smart-launcher-team/icon-pack-studio/"
+uptodown-dlurl = "https://icon-pack-studio.en.uptodown.com/android"
