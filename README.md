@@ -22,7 +22,6 @@ Here you can download and use applications selected for this repository, which a
 - <picture><img src="https://play-lh.googleusercontent.com/XyI6Hyz9AFg7E_joVzX2zh6CpWm9B2DG2JuEz5meCFVm4-wTKTnHgqbmg62iFKe4Gzca=w240-h480-rw" width="20" height="20"></picture> [X (Twitter)](https://play.google.com/store/apps/details?id=com.twitter.android)
 - <picture><img src="https://play-lh.googleusercontent.com/LdBITldj-tJxqLm-CsWSbnt4BMo2gk53cgM7mWIL-zn44m1ywLyQgxRsHKqp8r0qceXs=w240-h480-rw" width="20" height="20"></picture> [TikTok](https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically)
 - <picture><img src="https://play-lh.googleusercontent.com/QLQzL-MXtxKEDlbhrQCDw-REiDsA9glUH4m16syfar_KVLRXlzOhN7tmAceiPerv4Jg=s48-rw" width="20" height="20"></picture> [Twitch](https://play.google.com/store/apps/details?id=tv.twitch.android.app)
-- <picture><img src="https://play-lh.googleusercontent.com/Bw64Ft8n9ei2NJ_Et2MxWjSInZrL_6yMJbu7Usw-BcOgjvjo75xP4JnyjsX8VZJM9_E=w240-h480-rw" width="20" height="20"></picture> [Icon Pack Studio](https://play.google.com/store/apps/details?id=ginlemon.iconpackstudio)
 
 ## 📜 Resources & Credits
 - [Resources: ReVanced Guide](https://kazimmt.github.io/RVX-Features)
