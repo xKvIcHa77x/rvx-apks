@@ -1,1 +1,38 @@
-[]
+[
+    {
+      "patchName": "Custom branding icon YouTube",
+      "options": [
+        {
+          "key": "AppIcon",
+          "value": "revancify_red"
+        }
+      ]
+    },
+    {
+      "patchName": "Premium heading",
+      "options": [
+        {
+          "key": "UsePremiumHeading",
+          "value": "true"
+        }
+      ]
+    },
+    {
+      "patchName": "SponsorBlock",
+      "options": [
+        {
+          "key": "OutlineIcon",
+          "value": "true"
+        }
+      ]
+    },
+    {
+      "patchName": "Custom branding icon YouTube Music",
+      "options": [
+        {
+          "key": "AppIcon",
+          "value": "revancify_red"
+        }
+      ]
+    }
+]
