@@ -1,9 +1,9 @@
+🟢 » Music (arm-v7a): `6.31.55`  
 🟢 » YouTube: `18.45.43`  
 🟢 » Music (arm64-v8a): `6.31.55`  
 🟢 » Reddit: `2023.50.0`  
-🟢 » Music (arm-v7a): `6.31.55`  
-🟢 » X: `10.19.0-release.0`  
 🟢 » TikTok: `32.5.3`  
+🟢 » X: `10.19.0-release.0`  
 🟢 » Twitch: `16.9.1`  
 
 - 🔰 » Install [mMicroG](https://github.com/kazimmt/mMicroG/releases) for non-root YouTube and YT Music  
@@ -15,7 +15,7 @@
 > 🧩 » Patches: `inotia00/revanced-patches-2.204.1.jar`  
 > [🔗 » Changelog](https://github.com/inotia00/revanced-patches/releases/tag/v2.204.1)
 
-> 💻 » CLI: `ReVanced/revanced-cli-4.3.0-all.jar`  
+> 💻 » CLI: `j-hc/revanced-cli-4.3.0-all.jar`  
 > 🔩 » Integrations: `ReVanced/revanced-integrations-1.0.0.apk`  
-> 🧩 » Patches: `ReVanced/revanced-patches-3.0.0.jar`  
-> [🔗 » Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v3.0.0)  
+> 🧩 » Patches: `ReVanced/revanced-patches-3.1.0.jar`  
+> [🔗 » Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v3.1.0)  
