@@ -1,9 +1,9 @@
 🟢 » YouTube: `18.45.43`  
-🟢 » Music (arm-v7a): `6.31.55`  
 🟢 » Music (arm64-v8a): `6.31.55`  
-🟢 » Reddit: `2023.50.0`  
-🟢 » TikTok: `32.5.3`  
+🟢 » Music (arm-v7a): `6.31.55`  
+🟢 » Reddit: `2023.50.1`  
 🟢 » X: `10.20.0-release.0`  
+🟢 » TikTok: `32.5.3`  
 🟢 » Twitch: `16.9.1`  
 
 - 🔰 » Install [mMicroG](https://github.com/kazimmt/mMicroG/releases) for non-root YouTube and YT Music  
