@@ -7,7 +7,7 @@ patches-source = "inotia00/revanced-patches"
 integrations-source = "inotia00/revanced-integrations"
 cli-source = "inotia00/revanced-cli"
 rv-brand = "ReVanced Extended"
-included-patches = "'Add splash animation' 'Enable music search' 'Hide animated button background' 'Hide double tap overlay filter' 'Hide player button background' 'Hide voice search button' 'MaterialYou' 'Premium heading' 'Shorts outline button'"
+included-patches = "'Add splash animation' 'Enable song search' 'Hide animated button background' 'Hide double tap overlay filter' 'Hide player button background' 'Hide voice search button' 'MaterialYou' 'Premium heading' 'Shorts outline button'"
 excluded-patches = "'Custom branding name YouTube' 'Theme'"
 build-mode = "both"
 
@@ -28,6 +28,7 @@ patches-source = "inotia00/revanced-patches"
 integrations-source = "inotia00/revanced-integrations"
 cli-source = "inotia00/revanced-cli"
 rv-brand = "ReVanced Extended"
+included-patches = "'Change package name'"
 
 [X]
 uptodown-dlurl = "https://twitter.en.uptodown.com/android"
