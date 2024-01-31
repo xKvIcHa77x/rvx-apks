@@ -1,6 +1,6 @@
 <h1 align="center">
     <picture>
-        <img src="https://readme-typing-svg.demolab.com?font=Google+Sans&size=25&pause=1000&color=F70000&center=true&vCenter=true&random=false&width=435&lines=%F0%9F%8C%90+ReVanced+Extended+APK's+Repo">
+        <img src="https://readme-typing-svg.demolab.com?font=Google+Sans&size=25&pause=1000&color=F70000&center=true&vCenter=true&random=false&width=435&lines=%F0%9F%8C%90+ReVancedX+APK's+Repo">
     </picture>
 </h1>
 
