@@ -11,9 +11,11 @@
 
 ## ⭐ Overview 
 
-Here you can download and use applications selected for this repository, which are modified and extended with many functionalities that will certainly be useful to you. It contains all APKs using [inotia00's patches](https://github.com/inotia00/revanced-patches) & some apps using [ReVanced's patches](https://github.com/ReVanced/revanced-patches).
+Here you can download and use applications selected for this repository, which are modified and extended with many functionalities that will certainly be useful to you. It contains all APKs using [ReVanced's patches](https://github.com/ReVanced/revanced-patches).
 
-> **Note**: Keep in mind that some builds may not work as expected due to changes in the app/patch code. In this case, there is nothing I can do, I just provide the ready-made APK files.
+> **Note #1**: Keep in mind that some builds may not work as expected due to changes in the app/patch code. In this case, there is nothing I can do, I just provide the ready-made APK files.
+
+> **Note #2**: ReVanced Extended maintained by inotia00 has been [discontinued](https://www.reddit.com/r/revancedextended/comments/1absqbj/revanced_extended_has_been_discontinued_by). Apps with inotia00's modifications will likely work for a long time, but may stop working at any time. In this repository, Extended will be replaced by regular ReVanced, unless inotia00 decides to return with a continuation of Extended or worthy alternatives appear. [Here](https://github.com/krvstek/rvx-apks/releases/tag/3) you can download the latest version of his modifications.
 
 ## 🟢 Available apps
 - <picture><img src="https://play-lh.googleusercontent.com/lMoItBgdPPVDJsNOVtP26EKHePkwBg-PkuY9NOrc-fumRtTFP4XhpUNk_22syN4Datc=s48-rw" width="20" height="20"></picture> [YouTube](https://play.google.com/store/apps/details?id=com.google.android.youtube)
@@ -26,5 +28,4 @@ Here you can download and use applications selected for this repository, which a
 ## 📜 Resources & Credits
 - [Resources: ReVanced Guide](https://kazimmt.github.io/RVX-Features)
 - [Credits: ReVanced](https://github.com/revanced)
-- [Credits: inotia00](https://github.com/inotia00)
 - [Credits: j-hc](https://github.com/j-hc)
