@@ -1,15 +1,24 @@
 [
   {
-    "patchName": "Custom branding icon YouTube Music",
+    "patchName": "GmsCore support",
     "options": [
       {
-        "key": "AppIcon",
-        "value": "revancify_red"
+        "key": "gmsCoreVendor",
+        "value": "app.revanced"
       }
     ]
   },
   {
-    "patchName": "Custom branding heading",
+    "patchName": "GmsCore support",
+    "options": [
+      {
+        "key": "gmsCoreVendor",
+        "value": "app.revanced"
+      }
+    ]
+  },
+  {
+    "patchName": "Change header",
     "options": [
       {
         "key": "header",
@@ -18,29 +27,11 @@
     ]
   },
   {
-    "patchName": "Custom branding icon YouTube",
+    "patchName": "Custom branding",
     "options": [
       {
-        "key": "AppIcon",
-        "value": "revancify_red"
-      }
-    ]
-  },
-  {
-    "patchName": "Overlay buttons",
-    "options": [
-      {
-        "key": "OutlineIcon",
-        "value": "true"
-      }
-    ]
-  },
-  {
-    "patchName": "SponsorBlock",
-    "options": [
-      {
-        "key": "OutlineIcon",
-        "value": "true"
+        "key": "appName",
+        "value": "YouTube"
       }
     ]
   }
