@@ -15,7 +15,7 @@ Here you can download and use applications selected for this repository, which a
 
 > **Note #1**: Keep in mind that some builds may not work as expected due to changes in the app/patch code. In this case, there is nothing I can do, I just provide the ready-made APK files.
 
-> **Note #2**: ReVanced Extended maintained by inotia00 has been [discontinued](https://www.reddit.com/r/revancedextended/comments/1absqbj/revanced_extended_has_been_discontinued_by). Apps with inotia00's modifications will likely work for a long time, but may stop working at any time. In this repository, Extended will be replaced by regular ReVanced, unless inotia00 decides to return with a continuation of Extended or worthy alternatives appear. [Here](https://github.com/krvstek/rvx-apks/releases/tag/3) you can download the latest version of his modifications.
+> **Note #2**: A few days after inotia00 [dropped support](https://www.reddit.com/r/revancedextended/comments/1absqbj/revanced_extended_has_been_discontinued_by) for ReVanced Extended, an "update" appeared thanks to a fork called [ReX](https://github.com/YT-Advanced/ReX-patches). Don't expect more, because the author of this fork wrote that [he will not continue RVX anymore](https://www.reddit.com/r/revancedextended/comments/1ah652i/comment/kolq63a/?utm_source=share&utm_medium=web2x&context=3). [Extended is already updated on our repository](https://github.com/krvstek/rvx-apks/releases/tag/5).
 
 ## 🟢 Available apps
 - <picture><img src="https://play-lh.googleusercontent.com/lMoItBgdPPVDJsNOVtP26EKHePkwBg-PkuY9NOrc-fumRtTFP4XhpUNk_22syN4Datc=s48-rw" width="20" height="20"></picture> [YouTube](https://play.google.com/store/apps/details?id=com.google.android.youtube)
