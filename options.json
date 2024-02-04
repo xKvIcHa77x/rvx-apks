@@ -1,23 +1,5 @@
 [
   {
-    "patchName": "GmsCore support",
-    "options": [
-      {
-        "key": "gmsCoreVendor",
-        "value": "app.revanced"
-      }
-    ]
-  },
-  {
-    "patchName": "GmsCore support",
-    "options": [
-      {
-        "key": "gmsCoreVendor",
-        "value": "app.revanced"
-      }
-    ]
-  },
-  {
     "patchName": "Change header",
     "options": [
       {
