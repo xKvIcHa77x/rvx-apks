@@ -2,12 +2,6 @@ enable-magisk-update = true
 
 [YouTube]
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
-included-patches = "'Enable slide to seek' 'Remove player controls background' 'Change header' 'Custom branding'"
-version = "auto"
-build-mode = "both"
-
-[YouTube-Extended]
-uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 patches-source = "YT-Advanced/ReX-patches"
 integrations-source = "YT-Advanced/ReX-integrations"
 cli-source = "inotia00/revanced-cli"
@@ -17,12 +11,6 @@ excluded-patches = "'Custom branding name YouTube'"
 build-mode = "both"
 
 [Music]
-uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
-included-patches = "'Permanent repeat'"
-build-mode = "both"
-arch = "both"
-
-[Music-Extended]
 uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
 patches-source = "YT-Advanced/ReX-patches"
 integrations-source = "YT-Advanced/ReX-integrations"
@@ -34,9 +22,6 @@ build-mode = "both"
 arch = "both"
 
 [Reddit]
-uptodown-dlurl = "https://reddit-official-app.en.uptodown.com/android"
-
-[Reddit-Extended]
 uptodown-dlurl = "https://reddit-official-app.en.uptodown.com/android"
 patches-source = "YT-Advanced/ReX-patches"
 integrations-source = "YT-Advanced/ReX-integrations"
