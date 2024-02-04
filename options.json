@@ -34,5 +34,50 @@
         "value": "YouTube"
       }
     ]
+  },
+  {
+    "patchName": "Custom branding icon YouTube Music",
+    "options": [
+      {
+        "key": "AppIcon",
+        "value": "revancify_red"
+      }
+    ]
+  },
+  {
+    "patchName": "Custom branding heading",
+    "options": [
+      {
+        "key": "header",
+        "value": "yt_premium_wordmark_header"
+      }
+    ]
+  },
+  {
+    "patchName": "Custom branding icon YouTube",
+    "options": [
+      {
+        "key": "AppIcon",
+        "value": "revancify_red"
+      }
+    ]
+  },
+  {
+    "patchName": "Overlay buttons",
+    "options": [
+      {
+        "key": "OutlineIcon",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "patchName": "SponsorBlock",
+    "options": [
+      {
+        "key": "OutlineIcon",
+        "value": "true"
+      }
+    ]
   }
 ]
