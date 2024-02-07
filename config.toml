@@ -2,32 +2,50 @@ enable-magisk-update = true
 
 [YouTube]
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
+included-patches = "'Enable slide to seek' 'Remove player controls background' 'Change header' 'Custom branding'"
+version = "auto"
+build-mode = "both"
+
+[YouTube-Extended]
+uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 patches-source = "YT-Advanced/ReX-patches"
 integrations-source = "YT-Advanced/ReX-integrations"
 cli-source = "inotia00/revanced-cli"
 rv-brand = "ReVanced Extended"
-included-patches = "'Add splash animation' 'Disable landscape mode' 'Enable song search' 'Hide animated button background' 'Hide double tap overlay filter' 'Hide player button background' 'Hide voice search button' 'MaterialYou' 'Shorts outline button'"
+included-patches = "'Add splash animation' 'Disable landscape mode' 'Enable debug logging' 'Hide animated button background' 'Hide double tap overlay filter' 'Hide player button background' 'Hide voice search button' 'MaterialYou' 'Shorts outline button'"
 excluded-patches = "'Custom branding name YouTube'"
 build-mode = "both"
+app-name = "YouTube"
 
 [Music]
+uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
+included-patches = "'Permanent repeat'"
+build-mode = "both"
+arch = "both"
+
+[Music-Extended]
 uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
 patches-source = "YT-Advanced/ReX-patches"
 integrations-source = "YT-Advanced/ReX-integrations"
 cli-source = "inotia00/revanced-cli"
 rv-brand = "ReVanced Extended"
-included-patches = "'Disable overlay filter' 'Hide double tap overlay filter' 'Hide player overlay filter' 'Hide voice search button' 'Replace cast button'"
+included-patches = "'Disable overlay filter' 'Enable debug logging' 'Hide double tap overlay filter' 'Hide player overlay filter' 'Hide voice search button' 'Replace cast button'"
 excluded-patches = "'Custom branding name YouTube Music'"
 build-mode = "both"
 arch = "both"
+app-name = "Music"
 
 [Reddit]
+uptodown-dlurl = "https://reddit-official-app.en.uptodown.com/android"
+
+[Reddit-Extended]
 uptodown-dlurl = "https://reddit-official-app.en.uptodown.com/android"
 patches-source = "YT-Advanced/ReX-patches"
 integrations-source = "YT-Advanced/ReX-integrations"
 cli-source = "inotia00/revanced-cli"
 rv-brand = "ReVanced Extended"
 included-patches = "'Change package name'"
+app-name = "Reddit"
 
 [X]
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.twitter.android"
@@ -39,3 +57,4 @@ included-patches = "'SIM spoof'"
 
 [Twitch]
 uptodown-dlurl = "https://twitch.en.uptodown.com/android"
+included-patches = "'Debug mode'"

@@ -1,28 +1,23 @@
 [
   {
-    "patchName": "Change header",
-    "options": [
-      {
-        "key": "header",
-        "value": "yt_premium_wordmark_header"
-      }
-    ]
-  },
-  {
     "patchName": "Custom branding",
     "options": [
       {
         "key": "appName",
         "value": "YouTube"
+      },
+      {
+        "key": "iconPath",
+        "value": "ReVanced*Logo"
       }
     ]
   },
   {
-    "patchName": "Custom branding icon YouTube Music",
+    "patchName": "Change header",
     "options": [
       {
-        "key": "AppIcon",
-        "value": "revancify_red"
+        "key": "header",
+        "value": "yt_premium_wordmark_header"
       }
     ]
   },
@@ -59,6 +54,15 @@
       {
         "key": "OutlineIcon",
         "value": "true"
+      }
+    ]
+  },
+  {
+    "patchName": "Custom branding icon YouTube Music",
+    "options": [
+      {
+        "key": "AppIcon",
+        "value": "revancify_red"
       }
     ]
   }
