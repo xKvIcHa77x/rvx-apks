@@ -8,13 +8,13 @@ build-mode = "both"
 
 [YouTube-Extended]
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
-patches-source = "YT-Advanced/ReX-patches"
-integrations-source = "YT-Advanced/ReX-integrations"
+patches-source = "anddea/revanced-patches"
+integrations-source = "anddea/revanced-integrations"
 cli-source = "inotia00/revanced-cli"
 rv-brand = "ReVanced Extended"
 included-patches = "'Add splash animation' 'Disable landscape mode' 'Enable debug logging' 'Hide animated button background' 'Hide double tap overlay filter' 'Hide double tap to like animations' 'Hide player button background' 'Hide voice search button' 'MaterialYou' 'Shorts outline button'"
 excluded-patches = "'Custom branding name YouTube'"
-version = "19.07.40"
+version = "19.09.37"
 build-mode = "both"
 app-name = "YouTube"
 
@@ -26,8 +26,8 @@ arch = "both"
 
 [Music-Extended]
 uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
-patches-source = "YT-Advanced/ReX-patches"
-integrations-source = "YT-Advanced/ReX-integrations"
+patches-source = "anddea/revanced-patches"
+integrations-source = "anddea/revanced-integrations"
 cli-source = "inotia00/revanced-cli"
 rv-brand = "ReVanced Extended"
 included-patches = "'Disable overlay filter' 'Enable debug logging' 'Hide double tap overlay filter' 'Hide player overlay filter' 'Hide voice search button' 'Replace cast button'"
@@ -42,8 +42,8 @@ uptodown-dlurl = "https://reddit-official-app.en.uptodown.com/android"
 
 [Reddit-Extended]
 uptodown-dlurl = "https://reddit-official-app.en.uptodown.com/android"
-patches-source = "YT-Advanced/ReX-patches"
-integrations-source = "YT-Advanced/ReX-integrations"
+patches-source = "anddea/revanced-patches"
+integrations-source = "anddea/revanced-integrations"
 cli-source = "inotia00/revanced-cli"
 rv-brand = "ReVanced Extended"
 included-patches = "'Change package name'"
