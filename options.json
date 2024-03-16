@@ -40,29 +40,24 @@
     ]
   },
   {
-    "patchName": "Overlay buttons",
-    "options": [
-      {
-        "key": "OutlineIcon",
-        "value": true
-      }
-    ]
-  },
-  {
-    "patchName": "SponsorBlock",
-    "options": [
-      {
-        "key": "OutlineIcon",
-        "value": true
-      }
-    ]
-  },
-  {
     "patchName": "Custom branding icon YouTube Music",
     "options": [
       {
         "key": "AppIcon",
         "value": "revancify_red"
+      }
+    ]
+  },
+  {
+    "patchName": "Custom package name",
+    "options": [
+      {
+        "key": "PackageNameYouTube",
+        "value": "app.rvx.android.youtube"
+      },
+      {
+        "key": "PackageNameYouTubeMusic",
+        "value": "app.rvx.android.apps.youtube.music"
       }
     ]
   }
