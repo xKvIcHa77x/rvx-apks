@@ -17,7 +17,7 @@ Here you can download and use applications selected for this repository, which a
 ## 🚀 Supported patches repos
 - [OG ReVanced](https://github.com/ReVanced/revanced-patches)
 - [ReX](https://github.com/anddea/revanced-patches) (as ReVanced Extended)
-- [Piko](https://github.com/crimera/piko) (Twitter)
+- [Piko](https://github.com/crimera/piko) (X / Twitter)
 
 ## 🟢 Available apps
 - <picture><img src="https://play-lh.googleusercontent.com/lMoItBgdPPVDJsNOVtP26EKHePkwBg-PkuY9NOrc-fumRtTFP4XhpUNk_22syN4Datc=s48-rw" width="20" height="20"></picture> [YouTube](https://play.google.com/store/apps/details?id=com.google.android.youtube)
