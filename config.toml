@@ -2,7 +2,7 @@ enable-magisk-update = true
 
 [YouTube]
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
-included-patches = "'Enable slide to seek' 'Remove player controls background' 'Change header' 'Custom branding'"
+included-patches = "'Change header' 'Custom branding'"
 version = "auto"
 build-mode = "both"
 
@@ -12,15 +12,14 @@ patches-source = "anddea/revanced-patches"
 integrations-source = "anddea/revanced-integrations"
 cli-source = "inotia00/revanced-cli"
 rv-brand = "ReVanced Extended"
-included-patches = "'Custom branding heading' 'Custom branding icon YouTube' 'Hide animated button background' 'Hide double tap to like animations' 'Hide fullscreen button' 'Hide player chapters' 'Hide voice search button' 'MaterialYou'"
-excluded-patches = "'Custom branding name YouTube' 'Theme'"
+included-patches = "'Custom branding heading' 'Custom branding icon YouTube' 'MaterialYou' 'Settings icons'"
+excluded-patches = "'Theme'"
 version = "auto"
 build-mode = "both"
 app-name = "YouTube"
 
 [Music]
 uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
-included-patches = "'Permanent repeat'"
 build-mode = "both"
 arch = "both"
 
@@ -30,8 +29,7 @@ patches-source = "anddea/revanced-patches"
 integrations-source = "anddea/revanced-integrations"
 cli-source = "inotia00/revanced-cli"
 rv-brand = "ReVanced Extended"
-included-patches = "'Custom branding icon YouTube Music' 'Disable overlay filter' 'Hide player overlay filter' 'Hide voice search button' 'Replace cast button'"
-excluded-patches = "'Custom branding name YouTube Music'"
+included-patches = "'Custom branding icon YouTube Music' 'Replace cast button'"
 version = "latest"
 build-mode = "both"
 arch = "both"
@@ -59,4 +57,3 @@ included-patches = "'SIM spoof'"
 
 [Twitch]
 uptodown-dlurl = "https://twitch.en.uptodown.com/android"
-included-patches = "'Debug mode'"
