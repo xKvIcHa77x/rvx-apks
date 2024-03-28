@@ -3,6 +3,7 @@ enable-magisk-update = true
 [YouTube]
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 included-patches = "'Change header' 'Custom branding'"
+excluded-patches = "'Theme'"
 version = "auto"
 build-mode = "both"
 
