@@ -21,6 +21,7 @@ app-name = "YouTube"
 
 [Music]
 uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
+version = "auto"
 build-mode = "both"
 arch = "both"
 
@@ -38,6 +39,7 @@ app-name = "Music"
 
 [Reddit]
 uptodown-dlurl = "https://reddit-official-app.en.uptodown.com/android"
+version = "auto"
 
 [Reddit-Extended]
 uptodown-dlurl = "https://reddit-official-app.en.uptodown.com/android"
@@ -62,3 +64,4 @@ included-patches = "'SIM spoof'"
 
 [Twitch]
 uptodown-dlurl = "https://twitch.en.uptodown.com/android"
+arch = "both"
