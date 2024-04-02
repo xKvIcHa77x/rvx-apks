@@ -17,7 +17,7 @@
     "options": [
       {
         "key": "header",
-        "value": "yt_premium_wordmark_header"
+        "value": "premium*header"
       }
     ]
   },
@@ -35,7 +35,7 @@
     "options": [
       {
         "key": "AppIcon",
-        "value": "revancify_red"
+        "value": "mmt"
       }
     ]
   },
@@ -44,7 +44,20 @@
     "options": [
       {
         "key": "AppIcon",
-        "value": "revancify_red"
+        "value": "mmt"
+      },
+      {
+        "key": "SplashHeaderIcon",
+        "value": true
+      }
+    ]
+  },
+  {
+    "patchName": "Change package name",
+    "options": [
+      {
+        "key": "PackageNameReddit",
+        "value": "app.rvx.android.reddit"
       }
     ]
   },
