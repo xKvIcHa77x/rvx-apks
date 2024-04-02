@@ -167,7 +167,7 @@ wait
 rm -rf temp/tmp.*
 if [ -z "$(ls -A1 ${BUILD_DIR})" ]; then abort "All builds failed."; fi
 
-log "\n- 🔰 » Install [MicroG / GmsCore](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs"
+log "\n- 🔰 » Install [GmsCore](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs"
 log "- 🔰 » Use [zygisk-detach (Magisk)](https://github.com/j-hc/zygisk-detach) module or [UpdateLocker (LSPosed)](https://github.com/Xposed-Modules-Repo/ru.mike.updatelocker/releases) to detach patched apps from being updated by Play Store"
 log "\n📜 » Dependencies:"
 log "$(cat $TEMP_DIR/*-rv/changelog.md)"
