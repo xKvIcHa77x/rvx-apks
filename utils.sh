@@ -64,7 +64,7 @@ get_rv_prebuilts() {
 		file="${dir}/${name}"
 		[ -f "$file" ] || REBUILD=true
 
-		echo "$tag: $(cut -d/ -f5 <<<"$url")/${name}  " >>"$dir/changelog.md"
+		echo "> ⚙️ » $tag: \`$(cut -d/ -f5 <<<"$url")/${name}\`  " >>"$dir/changelog.md"
 		gh_dl "$file" "$url" >&2 || return 1
 		echo -n "$file "
 		if [ "$tag" = "Patches" ]; then
@@ -75,7 +75,7 @@ get_rv_prebuilts() {
 			url=$(jq -e -r '.assets[] | select(.name | endswith("json")) | .url' <<<"$resp") || return 1
 			gh_dl "$file" "$url" >&2 || return 1
 			echo -n "$file "
-			echo -e "[Changelog](https://github.com/${src}/releases/tag/${tag_name})\n" >>"$dir/changelog.md"
+			echo -e "> [🔗 » Changelog](https://github.com/${src}/releases/tag/${tag_name})\n" >>"$dir/changelog.md"
 		fi
 	done
 	echo
@@ -390,7 +390,7 @@ build_rv() {
 	if ! check_sig "$stock_apk" "$pkg_name"; then
 		abort "apk signature mismatch '$stock_apk'"
 	fi
-	log "${table}: ${version}"
+	log "🟢 » ${table}: \`${version}\`"
 
 	p_patcher_args+=("-m ${args[integ]}")
 	local microg_patch
