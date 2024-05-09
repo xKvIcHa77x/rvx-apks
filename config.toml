@@ -26,6 +26,7 @@ build-mode = "both"
 arch = "both"
 
 [Music-Extended]
+enabled = false
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
 patches-source = "inotia00/revanced-patches"
 integrations-source = "inotia00/revanced-integrations"
