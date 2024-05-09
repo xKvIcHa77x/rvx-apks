@@ -1,14 +1,14 @@
 enable-magisk-update = true
 
 [YouTube]
-uptodown-dlurl = "https://youtube.en.uptodown.com/android"
+archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 included-patches = "'Change header' 'Custom branding'"
 excluded-patches = "'Theme'"
 version = "auto"
 build-mode = "both"
 
 [YouTube-Extended]
-uptodown-dlurl = "https://youtube.en.uptodown.com/android"
+archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 patches-source = "inotia00/revanced-patches"
 integrations-source = "inotia00/revanced-integrations"
 cli-source = "inotia00/revanced-cli"
@@ -20,13 +20,13 @@ build-mode = "both"
 app-name = "YouTube"
 
 [Music]
-uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
+archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
 version = "auto"
 build-mode = "both"
 arch = "both"
 
 [Music-Extended]
-uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
+archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
 patches-source = "inotia00/revanced-patches"
 integrations-source = "inotia00/revanced-integrations"
 cli-source = "inotia00/revanced-cli"
@@ -38,7 +38,7 @@ arch = "both"
 app-name = "Music"
 
 [Reddit-Extended]
-uptodown-dlurl = "https://reddit-official-app.en.uptodown.com/android"
+archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.reddit.frontpage"
 patches-source = "inotia00/revanced-patches"
 integrations-source = "inotia00/revanced-integrations"
 cli-source = "inotia00/revanced-cli"
@@ -59,5 +59,4 @@ archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.zhiliaoapp.music
 included-patches = "'SIM spoof'"
 
 [Twitch]
-uptodown-dlurl = "https://twitch.en.uptodown.com/android"
-arch = "both"
+archive-dlurl = "https://archive.org/download/jhc-apks/apks/tv.twitch.android.app"
