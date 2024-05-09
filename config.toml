@@ -35,10 +35,6 @@ build-mode = "both"
 arch = "both"
 app-name = "Music"
 
-[Reddit]
-uptodown-dlurl = "https://reddit-official-app.en.uptodown.com/android"
-version = "auto"
-
 [Reddit-Extended]
 uptodown-dlurl = "https://reddit-official-app.en.uptodown.com/android"
 patches-source = "anddea/revanced-patches"
