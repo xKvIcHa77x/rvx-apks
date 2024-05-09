@@ -16,7 +16,7 @@ Here you can download and use applications selected for this repository, which a
 
 ## 🚀 Supported patches repos
 - [OG ReVanced](https://github.com/ReVanced/revanced-patches)
-- [ReX](https://github.com/anddea/revanced-patches) (as ReVanced Extended)
+- [ReVanced Extended](https://github.com/inotia00/revanced-patches)
 - [Piko](https://github.com/crimera/piko) (X / Twitter)
 
 ## 🟢 Available apps

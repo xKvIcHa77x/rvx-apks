@@ -22,15 +22,6 @@
     ]
   },
   {
-    "patchName": "Custom branding heading",
-    "options": [
-      {
-        "key": "header",
-        "value": "yt_premium_wordmark_header"
-      }
-    ]
-  },
-  {
     "patchName": "Custom branding icon YouTube",
     "options": [
       {
@@ -40,15 +31,29 @@
     ]
   },
   {
+    "patchName": "Overlay buttons",
+    "options": [
+      {
+        "key": "OutlineIcon",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "patchName": "SponsorBlock",
+    "options": [
+      {
+        "key": "OutlineIcon",
+        "value": "true"
+      }
+    ]
+  },
+  {
     "patchName": "Custom branding icon YouTube Music",
     "options": [
       {
         "key": "AppIcon",
         "value": "mmt"
-      },
-      {
-        "key": "SplashHeaderIcon",
-        "value": true
       }
     ]
   },
@@ -57,20 +62,16 @@
     "options": [
       {
         "key": "PackageNameReddit",
-        "value": "app.rvx.android.reddit"
+        "value": "com.reddit.frontpage.rvx"
       }
     ]
   },
   {
-    "patchName": "Custom package name",
+    "patchName": "Custom branding name Reddit",
     "options": [
       {
-        "key": "PackageNameYouTube",
-        "value": "app.rvx.android.youtube"
-      },
-      {
-        "key": "PackageNameYouTubeMusic",
-        "value": "app.rvx.android.apps.youtube.music"
+        "key": "AppName",
+        "value": "RVX Reddit"
       }
     ]
   }
