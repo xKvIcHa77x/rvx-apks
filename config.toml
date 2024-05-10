@@ -1,6 +1,7 @@
 enable-magisk-update = true
 
 [YouTube]
+enabled = false
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 included-patches = "'Change header' 'Custom branding'"
 excluded-patches = "'Theme'"
@@ -20,6 +21,7 @@ build-mode = "both"
 app-name = "YouTube"
 
 [Music]
+enabled = false
 uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
 version = "auto"
 build-mode = "both"
@@ -31,7 +33,6 @@ patches-source = "inotia00/revanced-patches"
 integrations-source = "inotia00/revanced-integrations"
 cli-source = "inotia00/revanced-cli"
 rv-brand = "ReVanced Extended"
-included-patches = "'Replace cast button'"
 version = "6.50.51"
 build-mode = "both"
 arch = "both"
