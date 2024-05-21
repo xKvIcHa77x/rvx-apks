@@ -1,13 +1,5 @@
 enable-magisk-update = true
 
-[YouTube]
-enabled = false
-uptodown-dlurl = "https://youtube.en.uptodown.com/android"
-included-patches = "'Change header' 'Custom branding'"
-excluded-patches = "'Theme'"
-version = "auto"
-build-mode = "both"
-
 [YouTube-Extended]
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 patches-source = "inotia00/revanced-patches"
@@ -19,13 +11,6 @@ excluded-patches = "'Theme'"
 version = "auto"
 build-mode = "both"
 app-name = "YouTube"
-
-[Music]
-enabled = false
-uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
-version = "auto"
-build-mode = "both"
-arch = "both"
 
 [Music-Extended]
 uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"

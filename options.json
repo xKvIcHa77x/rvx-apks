@@ -1,27 +1,5 @@
 [
   {
-    "patchName": "Custom branding",
-    "options": [
-      {
-        "key": "appName",
-        "value": "YouTube"
-      },
-      {
-        "key": "iconPath",
-        "value": "ReVanced*Logo"
-      }
-    ]
-  },
-  {
-    "patchName": "Change header",
-    "options": [
-      {
-        "key": "header",
-        "value": "premium*header"
-      }
-    ]
-  },
-  {
     "patchName": "Custom branding icon YouTube",
     "options": [
       {
