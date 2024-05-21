@@ -60,3 +60,6 @@ included-patches = "'SIM spoof'"
 
 [Twitch]
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/tv.twitch.android.app"
+
+[Photomath]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photomath/"
