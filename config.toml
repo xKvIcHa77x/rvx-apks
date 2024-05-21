@@ -51,7 +51,7 @@ archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.twitter.android"
 patches-source = "crimera/piko"
 integrations-source = "crimera/revanced-integrations"
 rv-brand = "Piko"
-included-patches = "'Hide Banner' 'Hide Live Threads' 'Hide promote button' 'Force enable translate' 'Hide Community Notes' 'Hide FAB' 'Customize Navigation Bar items' 'Customize profile tabs' 'Disable chirp font' 'Add ability to copy media link'"
+included-patches = "'Hide FAB' 'Customize profile tabs' 'Customize Navigation Bar items' 'Enable app icon settings' 'Force enable translate' 'Hide promote button' 'Hide Community Notes' 'Hide Banner' 'Hide Live Threads' 'Add ability to copy media link' 'Disable chirp font'"
 build-mode = "apk"
 
 [TikTok]
