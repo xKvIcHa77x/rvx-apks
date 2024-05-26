@@ -9,15 +9,6 @@
     ]
   },
   {
-    "patchName": "Overlay buttons",
-    "options": [
-      {
-        "key": "OutlineIcon",
-        "value": true
-      }
-    ]
-  },
-  {
     "patchName": "SponsorBlock",
     "options": [
       {
