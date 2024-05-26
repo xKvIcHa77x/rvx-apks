@@ -31,6 +31,6 @@ Here you can download and use applications selected for this repository, which a
 - <picture><img src="https://play-lh.googleusercontent.com/Ma_HEbK1LzEoayR0tE0ZXqLopug69-dPspfCV36zzHOSuC0_i6mu5ulKz1eY7en-UM4=s48-rw" width="20" height="20"></picture> [Photomath](https://play.google.com/store/apps/details?id=com.microblink.photomath)
 
 ## 📜 Resources & Credits
-- [Resources: ReVanced Guide](https://kazimmt.github.io/RVX-Features)
+- [Resources: ReVanced Guide](https://kazimmt.github.io)
 - [Credits: ReVanced](https://github.com/revanced)
 - [Credits: j-hc](https://github.com/j-hc)
