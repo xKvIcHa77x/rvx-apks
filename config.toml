@@ -1,15 +1,7 @@
 enable-magisk-update = true
 
-[YouTube]
-enabled = false
-uptodown-dlurl = "https://youtube.en.uptodown.com/android"
-included-patches = "'Change header' 'Custom branding'"
-excluded-patches = "'Theme'"
-version = "auto"
-build-mode = "both"
-
 [YouTube-Extended]
-uptodown-dlurl = "https://youtube.en.uptodown.com/android"
+apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 patches-source = "inotia00/revanced-patches"
 integrations-source = "inotia00/revanced-integrations"
 cli-source = "inotia00/revanced-cli"
@@ -20,19 +12,13 @@ version = "auto"
 build-mode = "both"
 app-name = "YouTube"
 
-[Music]
-enabled = false
-uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
-version = "auto"
-build-mode = "both"
-arch = "both"
-
 [Music-Extended]
-uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
+apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
 patches-source = "inotia00/revanced-patches"
 integrations-source = "inotia00/revanced-integrations"
 cli-source = "inotia00/revanced-cli"
 rv-brand = "ReVanced Extended"
+included-patches = "'Replace cast button'"
 build-mode = "both"
 arch = "both"
 app-name = "Music"
@@ -51,7 +37,7 @@ archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.twitter.android"
 patches-source = "crimera/piko"
 integrations-source = "crimera/revanced-integrations"
 rv-brand = "Piko"
-included-patches = "'Hide FAB' 'Customize profile tabs' 'Customize Navigation Bar items' 'Enable app icon settings' 'Force enable translate' 'Hide promote button' 'Hide Community Notes' 'Hide Banner' 'Hide Live Threads' 'Add ability to copy media link' 'Disable chirp font'"
+included-patches = "'Hide FAB' 'Customize profile tabs' 'Customize Navigation Bar items' 'Force enable translate' 'Hide promote button' 'Hide Community Notes' 'Hide Banner' 'Hide Live Threads' 'Add ability to copy media link' 'Disable chirp font'"
 build-mode = "apk"
 
 [TikTok]

@@ -6,7 +6,9 @@
 
 <p align="center">
     <a href="https://github.com/krvstek/rvx-apks/actions/workflows//build.yml"><img alt="Build Status" src="https://github.com/krvstek/rvx-apks/actions/workflows/build.yml/badge.svg"></a>
-    <a href="https://github.com/krvstek/rvx-apks/releases/latest"><img alt="Click here!" src="https://img.shields.io/badge/%20Latest%20Release-FF0000?style=for-the-badge&logo=android"></a>
+    <a href="https://github.com/krvstek/rvx-apks/releases/latest"><img alt="Click here!" src="https://img.shields.io/github/release-date/krvstek/rvx-apks?display_date=created_at&logo=android&label=Latest%20Release"></a>
+    <img alt="Downloads (Overall)" src="https://img.shields.io/github/downloads/krvstek/rvx-apks/total?logo=simpleanalytics&logoColor=%23FFFFFF&label=Downloads%20(Overall)">
+    <img alt="Downloads (Latest)" src="https://img.shields.io/github/downloads/krvstek/rvx-apks/latest/total?sort=semver&logo=simpleanalytics&logoColor=%23FFFFFF&label=Downloads%20(Latest)">
 </p>
 
 ## ⭐ Overview
@@ -29,6 +31,6 @@ Here you can download and use applications selected for this repository, which a
 - <picture><img src="https://play-lh.googleusercontent.com/Ma_HEbK1LzEoayR0tE0ZXqLopug69-dPspfCV36zzHOSuC0_i6mu5ulKz1eY7en-UM4=s48-rw" width="20" height="20"></picture> [Photomath](https://play.google.com/store/apps/details?id=com.microblink.photomath)
 
 ## 📜 Resources & Credits
-- [Resources: ReVanced Guide](https://kazimmt.github.io/RVX-Features)
+- [Resources: ReVanced Guide](https://kazimmt.github.io)
 - [Credits: ReVanced](https://github.com/revanced)
 - [Credits: j-hc](https://github.com/j-hc)
