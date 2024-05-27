@@ -5,7 +5,6 @@
 </h1>
 
 <p align="center">
-    <a href="https://t.me/rvx2apks"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
     <a href="https://github.com/krvstek/rvx-apks/actions/workflows//build.yml"><img alt="Build Status" src="https://github.com/krvstek/rvx-apks/actions/workflows/build.yml/badge.svg"></a>
     <a href="https://github.com/krvstek/rvx-apks/releases/latest"><img alt="Click here!" src="https://img.shields.io/github/release-date/krvstek/rvx-apks?display_date=created_at&logo=android&label=Latest%20Release"></a>
     <img alt="Downloads (Overall)" src="https://img.shields.io/github/downloads/krvstek/rvx-apks/total?logo=simpleanalytics&logoColor=%23FFFFFF&label=Downloads%20(Overall)">
