@@ -66,7 +66,7 @@ get_rv_prebuilts() {
 		file="${dir}/${name}"
 		[ -f "$file" ] || REBUILD=true
 
-		echo "⚙️ » $tag: \`$(cut -d/ -f5 <<<"$url")/${name}\`  " >>"${cl_dir}/changelog.md"
+		echo "> ⚙️ » $tag: \`$(cut -d/ -f5 <<<"$url")/${name}\`  " >>"${cl_dir}/changelog.md"
 		gh_dl "$file" "$url" >&2 || return 1
 		echo -n "$file "
 		if [ "$tag" = "Patches" ]; then
@@ -77,7 +77,7 @@ get_rv_prebuilts() {
 			url=$(jq -e -r '.assets[] | select(.name | endswith("json")) | .url' <<<"$resp") || return 1
 			gh_dl "$file" "$url" >&2 || return 1
 			echo -n "$file "
-			echo -e "[🔗 » Changelog](https://github.com/${src}/releases/tag/${tag_name})\n" >>"${cl_dir}/changelog.md"
+			echo -e "> [🔗 » Changelog](https://github.com/${src}/releases/tag/${tag_name})\n" >>"${cl_dir}/changelog.md"
 		fi
 	done
 	echo
