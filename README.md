@@ -16,8 +16,15 @@ Here you can download and use applications selected for this repository, which a
 
 > **Note**: Keep in mind that some builds may not work as expected due to changes in the app/patch code. In this case, there is nothing I can do, I just provide the ready-made APK files.
 
-## 📋 List of repos/apps in this repository
+## 🔥 Features
+- 🛑 **Ad-blocking**: blocks every kind of advertisement (who needs them?).
+- 🚀 **Extended functionality**: extracts more possibilities from the app.
+- ⭐ **Customization**: customize the application to your needs.
+- 📦 **Module support**: install & use YouTube without MicroG / GmsCore (root only).
+- 💉 **Optimization**: optimized APKs / modules for size & faster usage.
+- ✨ **And much more!**
 
+## 📋 List of repos/apps in this repository
 ### [🧩 `OG ReVanced`](https://github.com/ReVanced/revanced-patches)
 <details>
 
