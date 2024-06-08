@@ -56,7 +56,6 @@ included-patches = "'Debug mode'"
 [Messenger]
 uptodown-dlurl = "https://facebook-messenger.en.uptodown.com/android"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/facebook-2/messenger"
-arch = "arm64-v8a"
 
 [Photomath]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photomath"
