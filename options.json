@@ -1,6 +1,6 @@
 [
   {
-    "patchName": "Custom branding icon YouTube",
+    "patchName": "Custom branding icon for YouTube",
     "options": [
       {
         "key": "AppIcon",
@@ -9,16 +9,25 @@
     ]
   },
   {
-    "patchName": "SponsorBlock",
+    "patchName": "Overlay buttons",
     "options": [
       {
-        "key": "OutlineIcon",
-        "value": true
+        "key": "IconType",
+        "value": "rounded"
       }
     ]
   },
   {
-    "patchName": "Custom branding icon YouTube Music",
+    "patchName": "Visual preferences icons",
+    "options": [
+      {
+        "key": "RVXSettingsMenuIcon",
+        "value": "revanced"
+      }
+    ]
+  },
+  {
+    "patchName": "Custom branding icon for YouTube Music",
     "options": [
       {
         "key": "AppIcon",
@@ -27,16 +36,7 @@
     ]
   },
   {
-    "patchName": "Change package name",
-    "options": [
-      {
-        "key": "PackageNameReddit",
-        "value": "com.reddit.frontpage.rvx"
-      }
-    ]
-  },
-  {
-    "patchName": "Custom branding name Reddit",
+    "patchName": "Custom branding name for Reddit",
     "options": [
       {
         "key": "AppName",
