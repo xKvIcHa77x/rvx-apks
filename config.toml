@@ -30,7 +30,6 @@ patches-source = "inotia00/revanced-patches"
 integrations-source = "inotia00/revanced-integrations"
 cli-source = "inotia00/revanced-cli"
 rv-brand = "ReVanced Extended"
-included-patches = "'Custom branding name for Reddit'"
 app-name = "Reddit"
 
 [X]
