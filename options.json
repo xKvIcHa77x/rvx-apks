@@ -5,6 +5,23 @@
       {
         "key": "AppIcon",
         "value": "mmt"
+      },
+      {
+        "key": "ChangeSplashIcon",
+        "value": true
+      },
+      {
+        "key": "RestoreOldSplashAnimation",
+        "value": false
+      }
+    ]
+  },
+  {
+    "patchName": "SponsorBlock",
+    "options": [
+      {
+        "key": "OutlineIcon",
+        "value": true
       }
     ]
   },
@@ -32,15 +49,10 @@
       {
         "key": "AppIcon",
         "value": "mmt"
-      }
-    ]
-  },
-  {
-    "patchName": "Custom branding name for Reddit",
-    "options": [
+      },
       {
-        "key": "AppName",
-        "value": "RVX Reddit"
+        "key": "ChangeSplashIcon",
+        "value": true
       }
     ]
   }
