@@ -38,7 +38,7 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/x-corp/twitter"
 patches-source = "crimera/piko"
 integrations-source = "crimera/revanced-integrations"
 rv-brand = "Piko"
-included-patches = "'Hide FAB' 'Customize Navigation Bar items' 'Delete from database' 'Force enable translate' 'Hide promote button' 'Hide Community Notes' 'Hide Banner' 'Add ability to copy media link' 'Disable chirp font'"
+included-patches = "'Disable chirp font' 'Customize Navigation Bar items' 'Hide FAB' 'Hide Community Notes' 'Hide promote button' 'Force enable translate' 'Delete from database' 'Hide Banner' 'Add ability to copy media link'"
 build-mode = "apk"
 
 [TikTok]
@@ -54,6 +54,15 @@ included-patches = "'Debug mode'"
 [Messenger]
 uptodown-dlurl = "https://facebook-messenger.en.uptodown.com/android"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/facebook-2/messenger"
+
+[Instagram]
+uptodown-dlurl = "https://instagram.en.uptodown.com/android"
+
+[RAR]
+uptodown-dlurl = "https://rar-for-android.en.uptodown.com/android"
+
+[Soundcloud]
+uptodown-dlurl = "https://soundcloud.en.uptodown.com/android"
 
 [Photomath]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photomath"
