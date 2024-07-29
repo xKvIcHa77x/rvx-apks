@@ -39,6 +39,7 @@ patches-source = "crimera/piko"
 integrations-source = "crimera/revanced-integrations"
 rv-brand = "Piko"
 included-patches = "'Disable chirp font' 'Customize Navigation Bar items' 'Hide FAB' 'Hide Community Notes' 'Hide promote button' 'Force enable translate' 'Delete from database' 'Hide Banner' 'Add ability to copy media link'"
+version = "10.49.0-release.0"
 
 [TikTok]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly"
