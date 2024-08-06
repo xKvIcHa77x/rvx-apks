@@ -33,10 +33,8 @@ rv-brand = "ReVanced Extended"
 app-name = "Reddit"
 
 [X]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/x-corp/twitter"
-uptodown-dlurl = "https://twitter.en.uptodown.com/android"
+archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.twitter.android"
 patches-source = "crimera/piko"
 integrations-source = "crimera/revanced-integrations"
 rv-brand = "Piko"
 included-patches = "'Hide FAB' 'Customize Navigation Bar items' 'Remove premium upsell' 'Delete from database' 'Control video auto scroll' 'Hide Banner' 'Hide promote button' 'Hide Community Notes' 'Force enable translate' 'Add ability to copy media link' 'Disable chirp font'"
-version = "10.49.0-release.0"
