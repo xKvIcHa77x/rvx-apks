@@ -38,3 +38,12 @@ patches-source = "crimera/piko"
 integrations-source = "crimera/revanced-integrations"
 cli-source = "inotia00/revanced-cli"
 rv-brand = "Piko"
+
+[TikTok]
+archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.zhiliaoapp.musically"
+included-patches = "'SIM spoof'"
+
+[Duolingo]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/duolingo/duolingo-duolingo"
+uptodown-dlurl = "https://duolingo.en.uptodown.com/android"
+apkmirror-dpi = "120-640dpi"

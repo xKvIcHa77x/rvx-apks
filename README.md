@@ -25,6 +25,13 @@ Here you can download and use applications selected for this repository, which a
 - ✨ **And much more!**
 
 ## 📋 List of repos/apps in this repository
+### [🧩 `ReVanced`](https://github.com/ReVanced/revanced-patches)
+<details>
+
+- <picture><img src="https://play-lh.googleusercontent.com/LdBITldj-tJxqLm-CsWSbnt4BMo2gk53cgM7mWIL-zn44m1ywLyQgxRsHKqp8r0qceXs=s48-rw" width="20" height="20"></picture> [`TikTok`](https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically)
+- <picture><img src="https://play-lh.googleusercontent.com/vIMymGDzl2arE2styucCrIO35Qv6yX7iJJYZGmIUMXXV_mT5OyR5MjpkfHFB3tc8bA=s48-rw" width="20" height="20"></picture> [`Duolingo`](https://play.google.com/store/apps/details?id=com.duolingo)
+</details>
+
 ### [🧩 `ReVanced Extended`](https://github.com/inotia00/revanced-patches)
 <details>
 
