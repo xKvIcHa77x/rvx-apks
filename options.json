@@ -35,7 +35,20 @@
     ]
   },
   {
-    "patchName": "Visual preferences icons",
+    "patchName": "Visual preferences icons for YouTube",
+    "options": [
+      {
+        "key": "RVXSettingsMenuIcon",
+        "value": "revanced"
+      },
+      {
+        "key": "ApplyToAll",
+        "value": true
+      }
+    ]
+  },
+  {
+    "patchName": "Visual preferences icons for YouTube Music",
     "options": [
       {
         "key": "RVXSettingsMenuIcon",
