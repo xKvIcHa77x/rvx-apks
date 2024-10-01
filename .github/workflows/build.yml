@@ -16,8 +16,8 @@ jobs:
     steps:
       - uses: actions/setup-java@v4
         with:
-          distribution: "adopt"
-          java-version: "20"
+          distribution: "zulu"
+          java-version: "21"
 
       - name: Checkout
         uses: actions/checkout@v4

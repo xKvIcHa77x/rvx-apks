@@ -1,50 +1,14 @@
 [
   {
-    "patchName": "Custom branding",
-    "options": [
-      {
-        "key": "appName",
-        "value": "YouTube"
-      },
-      {
-        "key": "iconPath",
-        "value": "ReVanced*Logo"
-      }
-    ]
-  },
-  {
-    "patchName": "Change header",
-    "options": [
-      {
-        "key": "header",
-        "value": "yt_premium_wordmark_header"
-      }
-    ]
-  },
-  {
-    "patchName": "Custom branding heading",
-    "options": [
-      {
-        "key": "header",
-        "value": "yt_premium_wordmark_header"
-      }
-    ]
-  },
-  {
-    "patchName": "Custom branding icon YouTube",
+    "patchName": "Custom branding icon for YouTube",
     "options": [
       {
         "key": "AppIcon",
-        "value": "revancify_red"
-      }
-    ]
-  },
-  {
-    "patchName": "Overlay buttons",
-    "options": [
+        "value": "mmt"
+      },
       {
-        "key": "OutlineIcon",
-        "value": true
+        "key": "RestoreOldSplashAnimation",
+        "value": false
       }
     ]
   },
@@ -58,11 +22,46 @@
     ]
   },
   {
-    "patchName": "Custom branding icon YouTube Music",
+    "patchName": "Overlay buttons",
+    "options": [
+      {
+        "key": "IconType",
+        "value": "rounded"
+      },
+      {
+        "key": "ChangeTopButtons",
+        "value": true
+      }
+    ]
+  },
+  {
+    "patchName": "Visual preferences icons for YouTube",
+    "options": [
+      {
+        "key": "RVXSettingsMenuIcon",
+        "value": "revanced"
+      },
+      {
+        "key": "ApplyToAll",
+        "value": true
+      }
+    ]
+  },
+  {
+    "patchName": "Visual preferences icons for YouTube Music",
+    "options": [
+      {
+        "key": "RVXSettingsMenuIcon",
+        "value": "revanced"
+      }
+    ]
+  },
+  {
+    "patchName": "Custom branding icon for YouTube Music",
     "options": [
       {
         "key": "AppIcon",
-        "value": "revancify_red"
+        "value": "mmt"
       }
     ]
   }

@@ -1,62 +1,49 @@
 enable-magisk-update = true
 
 [YouTube]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube" 
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
-included-patches = "'Enable slide to seek' 'Remove player controls background' 'Change header' 'Custom branding'"
-version = "auto"
-build-mode = "both"
-
-[YouTube-Extended]
-uptodown-dlurl = "https://youtube.en.uptodown.com/android"
-patches-source = "YT-Advanced/ReX-patches"
-integrations-source = "YT-Advanced/ReX-integrations"
+patches-source = "inotia00/revanced-patches"
+integrations-source = "inotia00/revanced-integrations"
 cli-source = "inotia00/revanced-cli"
 rv-brand = "ReVanced Extended"
-included-patches = "'Add splash animation' 'Disable landscape mode' 'Enable debug logging' 'Hide animated button background' 'Hide double tap overlay filter' 'Hide double tap to like animations' 'Hide player button background' 'Hide voice search button' 'MaterialYou' 'Shorts outline button'"
-excluded-patches = "'Custom branding name YouTube'"
-version = "19.07.40"
+included-patches = "'MaterialYou'"
+excluded-patches = "'Theme'"
 build-mode = "both"
 app-name = "YouTube"
 
 [Music]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
 uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
-included-patches = "'Permanent repeat'"
-build-mode = "both"
-arch = "both"
-
-[Music-Extended]
-uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
-patches-source = "YT-Advanced/ReX-patches"
-integrations-source = "YT-Advanced/ReX-integrations"
+patches-source = "inotia00/revanced-patches"
+integrations-source = "inotia00/revanced-integrations"
 cli-source = "inotia00/revanced-cli"
 rv-brand = "ReVanced Extended"
-included-patches = "'Disable overlay filter' 'Enable debug logging' 'Hide double tap overlay filter' 'Hide player overlay filter' 'Hide voice search button' 'Replace cast button'"
-excluded-patches = "'Custom branding name YouTube Music'"
-version = "latest"
 build-mode = "both"
 arch = "both"
 app-name = "Music"
 
 [Reddit]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/redditinc/reddit"
 uptodown-dlurl = "https://reddit-official-app.en.uptodown.com/android"
-
-[Reddit-Extended]
-uptodown-dlurl = "https://reddit-official-app.en.uptodown.com/android"
-patches-source = "YT-Advanced/ReX-patches"
-integrations-source = "YT-Advanced/ReX-integrations"
+patches-source = "inotia00/revanced-patches"
+integrations-source = "inotia00/revanced-integrations"
 cli-source = "inotia00/revanced-cli"
 rv-brand = "ReVanced Extended"
-included-patches = "'Change package name'"
 app-name = "Reddit"
 
 [X]
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.twitter.android"
-build-mode = "apk"
+patches-source = "crimera/piko"
+integrations-source = "crimera/revanced-integrations"
+cli-source = "inotia00/revanced-cli"
+rv-brand = "Piko"
 
 [TikTok]
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.zhiliaoapp.musically"
 included-patches = "'SIM spoof'"
 
-[Twitch]
-uptodown-dlurl = "https://twitch.en.uptodown.com/android"
-included-patches = "'Debug mode'"
+[Duolingo]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/duolingo/duolingo-duolingo"
+uptodown-dlurl = "https://duolingo.en.uptodown.com/android"
+apkmirror-dpi = "120-640dpi"
